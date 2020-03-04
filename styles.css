@@ -1,3 +1,15 @@
-#catPic{
-    
+body {
+    background: rgb(239, 254, 255);
+}
+
+header {
+    text-align: center;
+}
+#catPic img {
+    width: 300px;
+    position: relative;
+}
+#catPic p {
+    width: 600px;
+    margin: 0 auto;
 }
